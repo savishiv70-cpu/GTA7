@@ -1,0 +1,7 @@
+{
+  "name": "gta7-grand-city",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An original browser-based 3D open-world city game.",
+  "scripts": { "start": "node server.js" }
+}
